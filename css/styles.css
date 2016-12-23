@@ -1,0 +1,67 @@
+body {
+  font-size: 16px;
+  font-family: 'Varela Round', sans-serif;
+}
+#header-nav {
+  background-color: #999;
+  border-radius: 0;
+  border-bottom: solid 2px black;
+}
+.navbar-header{
+	margin-bottom: 0;
+}
+.navbar-header h1 {
+  font-weight: bold;
+  color: black;
+}
+.navbar-header a:hover, .navbar-header a:focus {
+  text-decoration: none;
+}
+.container h2{
+	font-weight: bold;
+  color: black;
+}
+.col-xs-12 {
+		color: black;
+    background-color: #999;
+}
+#nav-list {
+  margin-top: 0;
+  margin-bottom: 0;
+  text-align: center;
+  background: white;
+}
+#nav-list p {
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-bottom: 10px; 
+}
+#nav-list li{
+  border-top: solid 2px black;
+}
+#nav-list a {
+  color: black;
+}
+#nav-list a:hover{
+  text-decoration: none;
+}
+#nav-list li:hover {
+	background: #999;
+  text-decoration: none;
+}
+#nav-list a span {
+  font-size: 1.8em;
+}
+h3{
+	font-weight: bold;
+}
+.navbar-header .navbar-toggle .icon-bar {
+    background-color: black;
+}
+#header-nav .navbar-toggle {
+    border-color: black;
+}
+hr{
+	border: solid grey 1px;
+	margin: 0;
+}
